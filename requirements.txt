@@ -3,3 +3,4 @@ djangorestframework
 pytube
 moviepy
 environs
+django-cors-headers
